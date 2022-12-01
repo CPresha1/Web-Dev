@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+div {
+    background-color: #2C3639;
+    display: block;
+    
+}
+
+.top-container {
+    height: 200px;
+    width: 200px;
+}
+
+.middle-container {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    background-color: #3F4E4F;
+}
+
+.bottom-container {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    background-color: #A27B5C;
+}
